@@ -25,11 +25,11 @@ A **React Native + Expo** mobile application to track Indian stock market indice
 - **Stock Detail Screen**
   - Interactive chart using **react-native-chart-kit** (`LineChart`).
   - Chart intervals available:
-    - `1D` → value: `1d`, range: `1d`
-    - `1W` → value: `1wk`, range: `1mo`
-    - `1M` → value: `1mo`, range: `3mo`
-    - `3M` → value: `3mo`, range: `6mo`
-    - `1Y` → value: `1y`, range: `1y`
+    - `1D` → value: `1d`
+    - `1W` → value: `1wk`
+    - `1M` → value: `1mo`
+    - `3M` → value: `3mo`
+    - `1Y` → value: `1y`
   - Display current price, high/low, volume, % change.
   - Option to add/remove stock to Watchlist.
   - Auto-updates with backend data.
@@ -119,6 +119,7 @@ npm install
 # MONGO_URI=your_mongo_connection
 # JWT_SECRET=your_secret_key
 # PORT=5000
+# NODE_ENV=development
 npm start
 
 

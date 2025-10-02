@@ -76,7 +76,7 @@ A **React Native + Expo** mobile application to track Indian stock market indice
 |-------------|---------------------------------------|
 | Frontend    | React Native + Expo                  |
 | UI          | NativeWind (Tailwind), React Native Paper |
-| Charts      | victory-native                       |
+| Charts      | react-native-chart-kit               |
 | Backend     | Node.js + Express                    |
 | Database    | MongoDB                              |
 | Auth        | JWT                                  |

@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles for the app */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+/* Ensure proper background colors */
+.bg-background {
+  background-color: #f8fafc;
+}
+
+.bg-card {
+  background-color: #ffffff;
+}
+
+.bg-primary {
+  background-color: #2563eb;
+}
+
+/* Text colors */
+.text-text {
+  color: #1e293b;
+}
+
+.text-secondary {
+  color: #64748b;
+}
+
+.text-primary {
+  color: #2563eb;
+}
+
+.text-success {
+  color: #10b981;
+}
+
+.text-danger {
+  color: #ef4444;
+}
+
+/* Border colors */
+.border-border {
+  border-color: #e2e8f0;
+}

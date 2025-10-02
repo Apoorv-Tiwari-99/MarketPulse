@@ -23,11 +23,17 @@ A **React Native + Expo** mobile application to track Indian stock market indice
   - Auto-refresh every **10 seconds**.
 
 - **Stock Detail Screen**
-  - Interactive chart using **victory-native** (Line/Candlestick).
-  - Chart intervals: `1m`, `5m`, `1h`, `1d`.
+  - Interactive chart using **react-native-chart-kit** (`LineChart`).
+  - Chart intervals available:
+    - `1D` → value: `1d`, range: `1d`
+    - `1W` → value: `1wk`, range: `1mo`
+    - `1M` → value: `1mo`, range: `3mo`
+    - `3M` → value: `3mo`, range: `6mo`
+    - `1Y` → value: `1y`, range: `1y`
   - Display current price, high/low, volume, % change.
-  - Add/Remove stock to Watchlist.
+  - Option to add/remove stock to Watchlist.
   - Auto-updates with backend data.
+
 
 - **Navigation**
   - Bottom Tabs: `Home`, `Watchlist`, `Profile`.

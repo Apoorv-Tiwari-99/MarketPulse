@@ -93,7 +93,7 @@ A **React Native + Expo** mobile application to track Indian stock market indice
 ---
 
 ## 📡 Real-Time Updates
-- Stock list & Watchlist auto-refresh every **1.6 minutes**.
+- Stock list & Watchlist auto-refresh every **10 seconds**.
 - Smooth UI updates with loading states.
 - Graceful error handling for failed API calls.
 

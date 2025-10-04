@@ -4,11 +4,13 @@ import { PaperProvider } from 'react-native-paper';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { AuthProvider } from '../contexts/AuthContext';
 import { StockProvider } from '../contexts/StockContext';
+import { StatusBar } from 'expo-status-bar';
 import './global.css';
 
 export default function RootLayout() {
   return (
     <SafeAreaProvider>
+       <StatusBar hidden={true} />
       <PaperProvider>
         <AuthProvider>
           <StockProvider>

@@ -67,7 +67,7 @@ export default function RegisterScreen() {
       <ScrollView contentContainerStyle={{ flexGrow: 1 }} className="bg-background">
         <View className="flex-1 px-6 justify-center min-h-screen">
           <Text className="text-3xl font-bold text-center text-primary mb-8">
-            Stock Tracker
+          MarketPulse
           </Text>
 
           <Text className="text-2xl font-bold text-center text-text mb-6">

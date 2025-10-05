@@ -49,6 +49,17 @@ A **React Native + Expo** mobile application to track Indian stock market indice
   - Visual feedback when adding/removing watchlist items.
 
 ---
+## 📷 App Screenshots / Images
+
+You can add your app screenshots or promotional images here:
+
+![Home Screen](stock-tracker-frontend/assets/images/home-screen.png)  
+![Watchlist Screen](stock-tracker-frontend/assets/images/watchlist-screen.png)  
+![Stock Detail Screen](stock-tracker-frontend/assets/images/stock-detail-screen.png)  
+
+> Replace the image paths above with your actual screenshots.
+
+---
 
 ### ⚙️ Backend (Node.js + Express)
 - **Authentication (JWT)**

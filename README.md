@@ -51,13 +51,18 @@ A **React Native + Expo** mobile application to track Indian stock market indice
 ---
 ## 📷 App Screenshots / Images
 
-You can add your app screenshots or promotional images here:
+<p align="center">
+  <img src="stock-tracker-frontend/assets/images/home-screen1.jpeg" width="250" />
+  <img src="stock-tracker-frontend/assets/images/watchlist1-screen.jpeg" width="250" />
+  <img src="stock-tracker-frontend/assets/images/stock-detail1-screen1.jpeg" width="250" />
+</p>
 
-![Home Screen](stock-tracker-frontend/assets/images/home-screen1.jpeg)  
-![Watchlist Screen](stock-tracker-frontend/assets/images/watchlist-screen.jpeg)  
-![Stock Detail Screen](stock-tracker-frontend/assets/images/stock-detail-screen1.jpeg)  
+<p align="center">
+  <img src="stock-tracker-frontend/assets/images/login-screen.jpeg" width="250" />
+  <img src="stock-tracker-frontend/assets/images/register-screen.jpeg" width="250" />
+  <img src="stock-tracker-frontend/assets/images/profile-screen.jpeg" width="250" />
+</p>
 
-> Replace the image paths above with your actual screenshots.
 
 ---
 

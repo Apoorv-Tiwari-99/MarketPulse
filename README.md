@@ -66,6 +66,7 @@ A **React Native + Expo** mobile application to track Indian stock market indice
 <p align="center" style="margin: 30px 0;">
   <img src="stock-tracker-frontend/assets/images/home-screen2.jpeg" width="250" style="margin: 10px; hspace="10"" />
   <img src="stock-tracker-frontend/assets/images/stock-detail-screen2.jpeg" width="250" style="margin: 10px; hspace="10"" />
+  <img src="stock-tracker-frontend/assets/images/search.jpeg" width="250" style="margin: 10px;" />
 </p>
 
 

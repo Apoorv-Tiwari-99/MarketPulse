@@ -51,15 +51,23 @@ A **React Native + Expo** mobile application to track Indian stock market indice
 ---
 ## 📷 App Screenshots / Images
 
-<div align="center" style="background-color: #f8f9fa; padding: 20px; border-radius: 10px;">
-  <img src="stock-tracker-frontend/assets/images/home-screen1.jpeg" width="250" style="margin: 10px;" />
-  <img src="stock-tracker-frontend/assets/images/watchlist-screen.jpeg" width="250" style="margin: 10px;" />
+<p align="center" style="margin: 30px 0;">
+  <img src="stock-tracker-frontend/assets/images/home-screen1.jpeg" width="250" style="margin: 10px; hspace="10"" />
+  <img src="stock-tracker-frontend/assets/images/watchlist-screen.jpeg" width="250" style="margin: 10px; hspace="10"" />
   <img src="stock-tracker-frontend/assets/images/stock-detail-screen1.jpeg" width="250" style="margin: 10px;" />
-  <br />
-  <img src="stock-tracker-frontend/assets/images/login-screen.jpeg" width="250" style="margin: 10px;" />
-  <img src="stock-tracker-frontend/assets/images/register-screen.jpeg" width="250" style="margin: 10px;" />
+</p>
+
+<p align="center" style="margin: 30px 0;">
+  <img src="stock-tracker-frontend/assets/images/login-screen.jpeg" width="250" style="margin: 10px; hspace="10"" />
+  <img src="stock-tracker-frontend/assets/images/register-screen.jpeg" width="250" style="margin: 10px; hspace="10"" />
   <img src="stock-tracker-frontend/assets/images/profile-screen.jpeg" width="250" style="margin: 10px;" />
-</div>
+</p>
+
+<p align="center" style="margin: 30px 0;">
+  <img src="stock-tracker-frontend/assets/images/home-screen2.jpeg" width="250" style="margin: 10px; hspace="10"" />
+  <img src="stock-tracker-frontend/assets/images/stock-detail-screen2.jpeg" width="250" style="margin: 10px; hspace="10"" />
+</p>
+
 
 
 ---
